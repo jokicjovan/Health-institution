@@ -42,7 +42,7 @@ The application includes a staff performance system that allows managers to eval
 
 ### Customizable Reporting System
 
-The application includes a customizable reporting system that allows managers to generate reports on various aspects of the health institution's operations. The system provides a variety of report templates that can be exported to various file formats.
+The application includes a customizable reporting system that allows managers to generate reports on various aspects of the health institution's operations
 
 ## Dependencies
 
